@@ -1,4 +1,3 @@
-markdown
 Credit Card Fraud Detection
 
 ## Overview
